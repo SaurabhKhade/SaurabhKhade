@@ -14,10 +14,9 @@
 - :smiley: My hobbies are :computer: coding, :badminton: playing and :headphones: Listening songs
 - 🔭 I’m currently working on **Navkrishna Valley Management Web Project**
 - 🌱 I’m currently learning Blockchain Application Development and Data Science
-- 📫 Mail me at **khadesaurabh056@gmail.com**
-- 📄 View my experiences at [https://saurabhkhade.github.io](bit.ly/saurabhkhade)
-- 👨‍💻 View my resume at [https://saurabhkhade.github.io/resume](bit.ly/saurabhkhade-resume)
-
+- 📫 Mail me at khadesaurabh056@gmail.com
+- 📄 View my experiences at [bit.ly/saurabhkhade](https://saurabhkhade.github.io)
+- 👨‍💻 View my resume at [bit.ly/saurabhkhade-resume](https://saurabhkhade.github.io/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
