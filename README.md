@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Saurabh Khade</h1>
 
 <p>I am an enthusiastic, self-motivated person. I am a team worker and adaptable to new technologies and all challenging situations.</p>
@@ -20,11 +21,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/_saurabh_khade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_saurabh_khade" height="30" width="40" style="margin: 7px 5px;"/></a>
-  <a href="https://www.linkedin.com/in/saurabh-khade-2a44681b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh khade" height="30" width="40" style="margin: 7px 5px;" /></a>
-  <a href="https://www.facebook.com/saurabh.khade.9889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saurabh shankar khade" height="30" width="40" style="margin: 7px 5px;" /></a>
-  <a href="https://instagram.com/__saurabh_khade__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__saurabh_khade__" height="30" width="40" style="margin: 7px 5px;" /></a>
-  <a href="https://www.hackerrank.com/khadesaurabh055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khadesaurabh055" height="30" width="40" style="margin: 7px 5px;" /></a>
+  <a href="https://twitter.com/_saurabh_khade" target="blank"><img title="Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_saurabh_khade" height="30" width="30" style="margin: 7px;"/></a>
+  <a href="https://www.linkedin.com/in/saurabh-khade-2a44681b0" target="blank"><img title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh khade" height="30" width="30" style="margin: 7px;" /></a>
+  <a href="https://www.facebook.com/saurabh.khade.9889" target="blank"><img title="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saurabh shankar khade" height="30" width="30" style="margin: 7px;" /></a>
+  <a href="https://instagram.com/__saurabh_khade__" target="blank"><img title="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__saurabh_khade__" height="30" width="30" style="margin: 7px;" /></a>
+  <a href="https://www.hackerrank.com/khadesaurabh055" target="blank"><img title="Hackerrank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khadesaurabh055" height="30" width="30" style="margin: 7px;" /></a>
+  <a href="https://kaggle.com/khadesaurabh" target="blank"><img title="Kaggle" src="./kaggle.svg" alt="khadesaurabh055" height="30" width="30" style="margin: 7px;" /></a>
+  <a href="https://leetcode.com/KhadeSaurabh/" target="blank"><img title="Leetcode" src="./leetcode.svg" alt="khadesaurabh055" height="30" width="30" style="margin: 7px 5px;" /></a>
 </p>
 
 
