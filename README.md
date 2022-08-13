@@ -73,7 +73,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=saurabhkhade&column=-1"/>
 </p>
 
-[![Saurabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=saurabhkhade&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/aurabhKhade)
+[![Saurabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=saurabhkhade&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/SaurabhKhade)
 
 
 <p align="center">
