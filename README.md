@@ -73,8 +73,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=saurabhkhade&column=-1"/>
 </p>
 
-[![Saurabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=saurabhkhade&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/SaurabhKhade)
-
+[![Saurabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaurabhKhade&bg_color=0d1117&color=ffffff&line=00e6fe&point=00e6fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saurabhkhade&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" />
