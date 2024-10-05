@@ -46,34 +46,23 @@
 <!-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C Programming" alt="c" width="40" height="40" style="margin: 7px 5px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++ Programming" alt="cplusplus" width="40" height="40" style="margin: 7px 5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python" style="margin: 7px 5px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40" style="margin: 7px 5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin: 7px 5px;" title="Java" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="NodeJS" style="margin: 7px 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML 5" style="margin: 7px 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML 5" style="margin: 7px 5px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="css3" width="40" height="40" style="margin: 7px 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React" style="margin: 7px 5px;" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 7px 5px;" title="Git" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" title="MySQL" height="40" style="margin: 7px 5px;" />
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React" style="margin: 7px 5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" title="ExpressJS" width="40" height="40" style="margin: 7px 5px;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" title="NextJS" width="40" height="40" style="margin: 7px 5px;" />
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" title="Firebase" style="margin: 7px 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" title="Redux" style="margin: 7px 5px;" /> 
-  <img title="Sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="margin: 7px 5px;" />
-  
-  <img title="Machine Learning" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/000000/external-machine-learning-robotics-flaticons-lineal-color-flat-icons.png" alt="sass" width="40" height="40" style="margin: 7px 5px;" />
-  <!-- <img title="Blokchain" src="https://img.icons8.com/nolan/64/blockchain-technology--v1.png" alt="sass" width="40" height="40" style="margin: 7px 5px;" /> -->
-  <!--   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin: 7px 5px;" /> </a> -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40" style="margin: 7px 5px;" title="C#" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".net core" width="40" height="40" style="margin: 7px 5px;" title=".Net Core" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" style="margin: 7px 5px;" title="Vue" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sql server" width="40" height="40" style="margin: 7px 5px;" title="Microsoft SqlServer" />
 </p>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=saurabhkhade&column=-1"/>
 </p>
 
-[![Saurabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaurabhKhade&bg_color=0d1117&color=ffffff&line=00e6fe&point=00e6fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Saurabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaurabhKhade&bg_color=151515&color=ffffff&line=00e6fe&point=00e6fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
 <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=saurabhkhade&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" />
