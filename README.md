@@ -76,9 +76,9 @@
 [![Saurabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaurabhKhade&bg_color=0d1117&color=ffffff&line=00e6fe&point=00e6fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saurabhkhade&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" />
+<img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api?username=saurabhkhade&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" />
   
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkhade&theme=dark&theme=black-ice&stroke=0000" />
+<img width="49%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkhade&theme=dark&theme=black-ice&stroke=0000" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkhade&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkhade&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/>
 </p>
